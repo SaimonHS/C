@@ -1,5 +1,5 @@
 #include <stdio.h>
-main()
+int main()
 {
     char lowercase;
     printf("enter ur lower case letter:");
